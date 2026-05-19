@@ -2,11 +2,11 @@
 
 A lightweight static web app for menstrual cycle guidance and reminders.
 
-[![Deploy static site to GitHub Pages](https://github.com/johandry/atria/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/johandry/atria/actions/workflows/deploy-pages.yml)
+[![Deploy static site to GitHub Pages](https://github.com/atriawomencare/website/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/atriawomencare/website/actions/workflows/deploy-pages.yml)
 
 ## Live Site
 
-- URL: https://johandry.github.io/atria/
+- URL: <https://atria-women-care.com>
 
 ## Publish / Update
 
@@ -21,12 +21,6 @@ git add .
 git commit -m "Update site"
 git push origin main
 ```
-
-## First-time GitHub Pages setup (if needed)
-
-1. Open repository settings.
-2. Go to Pages.
-3. Set Source to GitHub Actions.
 
 ## Local Preview
 
