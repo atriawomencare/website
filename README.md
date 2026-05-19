@@ -6,7 +6,7 @@ A lightweight static web app for menstrual cycle guidance and reminders.
 
 ## Live Site
 
-- URL: <https://atria-women-care.com>
+- URL: <https://atriawomencare.com>
 
 ## Publish / Update
 
